@@ -38,7 +38,7 @@ solve_result = solved
 
 solve_result_num = 0
 
-_solve_elapsed_time = 187.25
+_solve_elapsed_time = 93.578
 
 TotalCost 68.96243095306299
 LCA_tot 13.99999999992226

@@ -1,9 +1,0 @@
-25/02/21 10:58:48 [INFO    ] (import_data): Importing data files from C:\Users\ghuysn\ADLIBIO_local\EnergyScope_LCA-ANNE_20_02_25\Data\SA_FINAL_19-02-2025\2050
-25/02/21 10:58:48 [INFO    ] (kmedoid_clustering): Starting kmedoid clustering of typical days based on C:\Users\ghuysn\ADLIBIO_local\EnergyScope_LCA-ANNE_20_02_25\energyscope\preprocessing\td_selection\data.dat
-25/02/21 10:58:48 [INFO    ] (kmedoid_clustering): Running kmedoid clustering
-25/02/21 10:58:55 [INFO    ] (kmedoid_clustering): End of kmedoid clustering
-25/02/21 10:58:55 [INFO    ] (print_data): Printing ESTD_data.dat
-25/02/21 10:58:55 [INFO    ] (print_data): Printing ESTD_12TD.dat
-25/02/21 10:58:55 [INFO    ] (run_es): Running EnergyScope
-25/02/21 11:02:11 [INFO    ] (run_es): End of run
-25/02/21 11:02:12 [INFO    ] (read_outputs): Reading outputs from: c:\users\ghuysn\adlibio_local\energyscope_lca-anne_20_02_25\case_studies\SA_FINAL_19-02-2025\2050\output
