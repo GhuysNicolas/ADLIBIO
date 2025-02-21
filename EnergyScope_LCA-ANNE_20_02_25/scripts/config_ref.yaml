@@ -1,6 +1,6 @@
 # Case study definition
 # name of the case study. The problem formulation and ouptuts will be printed into the following relative path from main directory : case_studies/config['case_study']
-'case_study': 'SA_FINAL_19-02-2025/2050'
+'case_study': 'SA_FINAL_19-02-2025/2050_2'
 #'case_study': 'Anne_CS_22_11/SA_26_11_24/2025'
 'data_dir': 'Data/SA_FINAL_19-02-2025/2050' # Folders containing the csv data files
 
