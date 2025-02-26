@@ -5,7 +5,52 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8b2b4e6b-59cf-4eeb-ace8-e6cfafcb4d01" name="Changes" comment="Ready for Anne">
+      <change afterPath="$PROJECT_DIR$/EnergyScope_LCA-ANNE_20_02_25/build/lib/energyscope/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EnergyScope_LCA-ANNE_20_02_25/build/lib/energyscope/common.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EnergyScope_LCA-ANNE_20_02_25/build/lib/energyscope/energy_model/es_model.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EnergyScope_LCA-ANNE_20_02_25/build/lib/energyscope/energy_model/es_run.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EnergyScope_LCA-ANNE_20_02_25/build/lib/energyscope/energy_model/run/ESTD_main.run" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EnergyScope_LCA-ANNE_20_02_25/build/lib/energyscope/energy_model/run/print_hourly_data.run" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EnergyScope_LCA-ANNE_20_02_25/build/lib/energyscope/energy_model/run/print_sankey.run" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EnergyScope_LCA-ANNE_20_02_25/build/lib/energyscope/energy_model/run/print_year_summary.run" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EnergyScope_LCA-ANNE_20_02_25/build/lib/energyscope/postprocessing/Plot_my_local_sankey.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EnergyScope_LCA-ANNE_20_02_25/build/lib/energyscope/postprocessing/cost.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EnergyScope_LCA-ANNE_20_02_25/build/lib/energyscope/postprocessing/draw_sankey/ESSankey.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EnergyScope_LCA-ANNE_20_02_25/build/lib/energyscope/postprocessing/draw_sankey/ESTD_sankey.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EnergyScope_LCA-ANNE_20_02_25/build/lib/energyscope/postprocessing/draw_sankey/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EnergyScope_LCA-ANNE_20_02_25/build/lib/energyscope/postprocessing/draw_sankey/d3.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EnergyScope_LCA-ANNE_20_02_25/build/lib/energyscope/postprocessing/draw_sankey/input2sankey.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EnergyScope_LCA-ANNE_20_02_25/build/lib/energyscope/postprocessing/draw_sankey/sankey.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EnergyScope_LCA-ANNE_20_02_25/build/lib/energyscope/postprocessing/input2sankey.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EnergyScope_LCA-ANNE_20_02_25/build/lib/energyscope/postprocessing/plots.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EnergyScope_LCA-ANNE_20_02_25/build/lib/energyscope/postprocessing/postprocessing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EnergyScope_LCA-ANNE_20_02_25/build/lib/energyscope/preprocessing/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EnergyScope_LCA-ANNE_20_02_25/build/lib/energyscope/preprocessing/es_pre/es_read_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EnergyScope_LCA-ANNE_20_02_25/build/lib/energyscope/preprocessing/es_pre/es_write_energy_model_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EnergyScope_LCA-ANNE_20_02_25/build/lib/energyscope/preprocessing/es_pre/headers/header_12td.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EnergyScope_LCA-ANNE_20_02_25/build/lib/energyscope/preprocessing/es_pre/headers/header_data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EnergyScope_LCA-ANNE_20_02_25/build/lib/energyscope/preprocessing/es_pre/headers/run_header.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EnergyScope_LCA-ANNE_20_02_25/build/lib/energyscope/preprocessing/es_pre/headers/run_save.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EnergyScope_LCA-ANNE_20_02_25/build/lib/energyscope/preprocessing/es_pre/headers/run_solve.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EnergyScope_LCA-ANNE_20_02_25/build/lib/energyscope/preprocessing/lca_pre/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EnergyScope_LCA-ANNE_20_02_25/build/lib/energyscope/preprocessing/lca_pre/lca_outdated.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EnergyScope_LCA-ANNE_20_02_25/build/lib/energyscope/preprocessing/lca_pre/lca_processed.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EnergyScope_LCA-ANNE_20_02_25/build/lib/energyscope/preprocessing/lca_pre/lca_updated.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EnergyScope_LCA-ANNE_20_02_25/build/lib/energyscope/preprocessing/lca_pre/pre_pross_lca.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EnergyScope_LCA-ANNE_20_02_25/build/lib/energyscope/preprocessing/td_selection/data.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EnergyScope_LCA-ANNE_20_02_25/build/lib/energyscope/preprocessing/td_selection/header.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EnergyScope_LCA-ANNE_20_02_25/build/lib/energyscope/preprocessing/td_selection/log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EnergyScope_LCA-ANNE_20_02_25/build/lib/energyscope/preprocessing/td_selection/printing_outputs.run" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EnergyScope_LCA-ANNE_20_02_25/build/lib/energyscope/preprocessing/td_selection/td_main.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EnergyScope_LCA-ANNE_20_02_25/build/lib/energyscope/preprocessing/td_selection/td_main.run" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EnergyScope_LCA-ANNE_20_02_25/build/lib/energyscope/preprocessing/td_selection/td_of_days.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EnergyScope_LCA-ANNE_20_02_25/build/lib/energyscope/preprocessing/td_selection/td_selection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EnergyScope_LCA-ANNE_20_02_25/build/lib/energyscope/preprocessing/utils/print_dat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EnergyScope_LCA-ANNE_20_02_25/build/lib/energyscope/preprocessing/utils/print_run.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EnergyScope_LCA-ANNE_20_02_25/scripts/2025-02-21_11-25-30.767557.energyscope.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EnergyScope_LCA-ANNE_20_02_25/energyscope.egg-info/SOURCES.txt" beforeDir="false" afterPath="$PROJECT_DIR$/EnergyScope_LCA-ANNE_20_02_25/energyscope.egg-info/SOURCES.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EnergyScope_LCA-ANNE_20_02_25/scripts/config_ref.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/EnergyScope_LCA-ANNE_20_02_25/scripts/config_ref.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,6 +138,10 @@
       <workItem from="1740133843366" duration="420000" />
       <workItem from="1740134278891" duration="9000" />
       <workItem from="1740134374643" duration="65000" />
+      <workItem from="1740137081897" duration="750000" />
+      <workItem from="1740139475228" duration="10000" />
+      <workItem from="1740386669473" duration="509000" />
+      <workItem from="1740557919578" duration="202000" />
     </task>
     <task id="LOCAL-00001" summary="Ready for Anne">
       <option name="closed" value="true" />
@@ -102,7 +151,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740133699116</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Ready for Anne">
+      <option name="closed" value="true" />
+      <created>1740137157756</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1740137157756</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

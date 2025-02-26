@@ -1,14 +1,14 @@
 #				incremental	total
 #phase		seconds		memory		memory
-#execute	0.015625	6241920		6241920
+#execute	0.015625	6243280		6243280
 ### td_main.run:20(976)   option ...
-#execute	0		0		6241920
+#execute	0		0		6243280
 ### td_main.run:21(997)   option ...
-#execute	0		0		6241920
+#execute	0		0		6243280
 ### td_main.run:22(1020)   option ...
-#execute	0		0		6241920
+#execute	0		0		6243280
 ### td_main.run:25(1095)   solve ...
-#compile	0		1560		6243480
+#compile	0		1560		6244840
 ##genmod times:
 ##seq      seconds    cum. sec.    mem. inc.  name
 ## 89            0            0            0  derstage
@@ -17,16 +17,16 @@
 ## 108            0            0            0  DAYS
 ## 109            0            0            0  Nbr_TD
 ## 110            0            0            0  Ndata
-## 111      0.71875      0.71875     13175008  Distance
-## 112            0      0.71875            0  Selected_TD
-## 114            0      0.71875      4202528  Cluster_matrix
-## 116     0.015625     0.734375      3233312  allocate_1TD_per_day
-## 118            0     0.734375     14759016  other_TD_null
-## 120            0     0.734375        38400  limit_number_of_TD
-## 122     0.015625         0.75      3187200  Euclidean_distance
-#genmod		0.75		38595464	44838944
-#merge		0		2097160		46936104
-#collect	0.015625	37953104	84889208
+## 111     0.859375     0.859375     13175008  Distance
+## 112            0     0.859375            0  Selected_TD
+## 114            0     0.859375      4202528  Cluster_matrix
+## 116     0.015625        0.875      3232280  allocate_1TD_per_day
+## 118     0.015625     0.890625     14759016  other_TD_null
+## 120            0     0.890625        38400  limit_number_of_TD
+## 122     0.015625      0.90625      3187200  Euclidean_distance
+#genmod		0.90625		38594432	44839272
+#merge		0		2097160		46936432
+#collect	0.015625	37953104	84889536
 
 "option presolve 10;" used, but "option presolve 2;" would suffice.
 133590 variables, all binary
@@ -43,20 +43,20 @@ presolve results:
 	nba cycles:		1
 	bound row scans:	133591
 	row-scan updates:	0
-#presolve	0.0625		30571568	115460776
-#output		0.09375		4194312		119655088
-#Total		0.9375
+#presolve	0.078125	30571568	115461104
+#output		0.09375		4194312		119655416
+#Total		1.10938
 CPLEX 22.1.1:   tech:mipdisplay = 5
   tech:mipinterval = 1000
   mip:gap = 1e-06
 CPLEX 22.1.1: optimal solution; objective 7.369768048e-06
 16 simplex iterations
-#execute	0.015625	2097160		121752248
+#execute	0.03125		2097160		121752576
 ### td_main.run:27(1103)   option ...
 ### td_main.run:28(1131)   option ...
 solve_result = solved
 
 solve_result_num = 0
 
-_solve_elapsed_time = 4.062
+_solve_elapsed_time = 6.375
 

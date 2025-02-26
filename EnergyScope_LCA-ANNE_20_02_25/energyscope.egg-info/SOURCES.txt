@@ -598,16 +598,6 @@ Data/SA_FINAL_26-11-24/2050/Storage_eff_out.csv
 Data/SA_FINAL_26-11-24/2050/Technologies.csv
 Data/SA_FINAL_26-11-24/2050/Time_series.csv
 Data/SA_FINAL_26-11-24/2050/misc.json
-Data/SA_FINAL_26-11-24/2050_2/Demand.csv
-Data/SA_FINAL_26-11-24/2050_2/END_USES_CATEGORIES.csv
-Data/SA_FINAL_26-11-24/2050_2/Layers_in_out.csv
-Data/SA_FINAL_26-11-24/2050_2/Resources.csv
-Data/SA_FINAL_26-11-24/2050_2/Storage_characteristics.csv
-Data/SA_FINAL_26-11-24/2050_2/Storage_eff_in.csv
-Data/SA_FINAL_26-11-24/2050_2/Storage_eff_out.csv
-Data/SA_FINAL_26-11-24/2050_2/Technologies.csv
-Data/SA_FINAL_26-11-24/2050_2/Time_series.csv
-Data/SA_FINAL_26-11-24/2050_2/misc.json
 My_local/2023-07-11_14-37-04.365459.energyscope.log
 case_studies/SA_FINAL_19-02-2025/2050/ESTD_12TD.dat
 case_studies/SA_FINAL_19-02-2025/2050/ESTD_data.dat
@@ -1121,7 +1111,6 @@ energyscope/preprocessing/utils/print_dat.py
 energyscope/preprocessing/utils/print_run.py
 energyscope/preprocessing/utils/__pycache__/print_dat.cpython-311.pyc
 energyscope/preprocessing/utils/__pycache__/print_run.cpython-311.pyc
-scripts/2025-02-21_10-58-47.689413.energyscope.log
 scripts/LCA_postprocess.py
 scripts/PB_plots.py
 scripts/config_ref.yaml
