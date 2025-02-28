@@ -1,0 +1,52 @@
+
+Presolve eliminates 652198 constraints and 419693 variables.
+"option presolve 10;" used, but "option presolve 11;" might work better.
+Adjusted problem:
+275859 variables, all linear
+502465 constraints, all linear; 1682409 nonzeros
+	355100 equality constraints
+	147365 inequality constraints
+1 linear objective; 1 nonzero.
+
+presolve results:
+	variables omitted:	419693
+	constraints omitted:	652198
+	ranges relaxed:		181047
+	bounds improved:	419393
+	constraint_drop_tol breakpoints: 0, 0, 0.7017739422226441
+	nba cycles:		9
+	bound row scans:	1862670
+	row-scan updates:	880869
+Gurobi 11.0.3:   pre:dual = -1
+  alg:method = 2
+  bar:crossover = 0
+  pre:passes = 3
+  bar:convtol = 1e-06
+  pre:solve = -1
+Gurobi 11.0.3: optimal solution; objective 48416.01451
+0 simplex iterations
+334 barrier iterations
+solve_result = solved
+
+solve_result_num = 0
+
+_solve_elapsed_time = 101.719
+
+TotalCost 48.4160145141174
+LCA_tot 19.9999999994058
+Crit_1_tot 208.807334850789
+Crit_2_tot 1220479.09340534
+Crit_3_tot 44309.22519342697
+LCA_cstr 6.868015699226584
+LCA_op 46.79909682973345
+LCA_res -33.66711252955423
+--------------SAVING COSTS -----------
+--------------SAVING RESOURCES -----------
+--------------SAVING GWP -----------
+--------------SAVING LCA ----------
+--------------SAVING Crit_1 ----------
+--------------SAVING Crit_2 ----------
+--------------SAVING Crit_3 ----------
+--------------SAVING Losses -----------
+--------------SAVING ASSETS -----------
+--------------SAVING SANKEY --------
