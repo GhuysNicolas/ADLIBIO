@@ -4,36 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b2b4e6b-59cf-4eeb-ace8-e6cfafcb4d01" name="Changes" comment="HVC-updated run 28-02-2025">
-      <change afterPath="$PROJECT_DIR$/EnergyScope_LCA-ANNE_20_02_25/case_studies/SA_FINAL_19-02-2025/2035_H2_plus2/ESTD_12TD.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EnergyScope_LCA-ANNE_20_02_25/case_studies/SA_FINAL_19-02-2025/2035_H2_plus2/ESTD_main.run" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EnergyScope_LCA-ANNE_20_02_25/case_studies/SA_FINAL_19-02-2025/2035_H2_plus2/es_model.mod" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EnergyScope_LCA-ANNE_20_02_25/case_studies/SA_FINAL_19-02-2025/2035_H2_plus2/output/log.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EnergyScope_LCA-ANNE_20_02_25/case_studies/SA_FINAL_19-02-2025/2035_H2_plus2/output/losses.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EnergyScope_LCA-ANNE_20_02_25/case_studies/SA_FINAL_19-02-2025/2035_H2_plus3/ESTD_12TD.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EnergyScope_LCA-ANNE_20_02_25/case_studies/SA_FINAL_19-02-2025/2035_H2_plus3/ESTD_data.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EnergyScope_LCA-ANNE_20_02_25/case_studies/SA_FINAL_19-02-2025/2035_H2_plus3/ESTD_main.run" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EnergyScope_LCA-ANNE_20_02_25/case_studies/SA_FINAL_19-02-2025/2035_H2_plus3/es_model.mod" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EnergyScope_LCA-ANNE_20_02_25/case_studies/SA_FINAL_19-02-2025/2035_H2_plus3/output/losses.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EnergyScope_LCA-ANNE_20_02_25/case_studies/SA_FINAL_19-02-2025/2035_H2_plus3/output/sto_year.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EnergyScope_LCA-ANNE_20_02_25/case_studies/SA_FINAL_19-02-2025/2035_H2_plus4/output/log.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EnergyScope_LCA-ANNE_20_02_25/case_studies/SA_FINAL_19-02-2025/2035_H2_plus4/output/sankey/python_generated_sankey.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EnergyScope_LCA-ANNE_20_02_25/case_studies/SA_FINAL_19-02-2025/2035_steamlow3/output/year_balance.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EnergyScope_LCA-ANNE_20_02_25/case_studies/SA_FINAL_19-02-2025/2035_steamlow4/output/lca_res_breakdown.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EnergyScope_LCA-ANNE_20_02_25/case_studies/SA_FINAL_19-02-2025/2035_steamlow5/output/crit_1_breakdown.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EnergyScope_LCA-ANNE_20_02_25/case_studies/SA_FINAL_19-02-2025/2035_steamlow7/output/year_balance.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EnergyScope_LCA-ANNE_20_02_25/case_studies/SA_FINAL_19-02-2025/2035_steamlow8/output/gwp_breakdown.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EnergyScope_LCA-ANNE_20_02_25/case_studies/SA_FINAL_19-02-2025/2035_steamlow8/output/sto_year.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EnergyScope_LCA-ANNE_20_02_25/case_studies/SA_FINAL_19-02-2025/2035_steamlow9/output/crit_1_breakdown.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EnergyScope_LCA-ANNE_20_02_25/case_studies/SA_FINAL_19-02-2025/2050_Nicolas/ESTD_data.dat" beforeDir="false" afterPath="$PROJECT_DIR$/EnergyScope_LCA-ANNE_20_02_25/case_studies/SA_FINAL_19-02-2025/2035_H2_plus2/ESTD_data.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EnergyScope_LCA-ANNE_20_02_25/case_studies/SA_FINAL_19-02-2025/2050_Nicolas/output/sankey/python_generated_sankey.html" beforeDir="false" afterPath="$PROJECT_DIR$/EnergyScope_LCA-ANNE_20_02_25/case_studies/SA_FINAL_19-02-2025/2035_steamlow6/output/sankey/python_generated_sankey.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EnergyScope_LCA-ANNE_20_02_25/energyscope/preprocessing/td_selection/data.dat" beforeDir="false" afterPath="$PROJECT_DIR$/EnergyScope_LCA-ANNE_20_02_25/energyscope/preprocessing/td_selection/data.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EnergyScope_LCA-ANNE_20_02_25/energyscope/preprocessing/td_selection/log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/EnergyScope_LCA-ANNE_20_02_25/energyscope/preprocessing/td_selection/log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EnergyScope_LCA-ANNE_20_02_25/energyscope/preprocessing/td_selection/td_of_days.out" beforeDir="false" afterPath="$PROJECT_DIR$/EnergyScope_LCA-ANNE_20_02_25/energyscope/preprocessing/td_selection/td_of_days.out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EnergyScope_LCA-ANNE_20_02_25/scripts/2025-02-28_12-10-37.298097.energyscope.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/EnergyScope_LCA-ANNE_20_02_25/scripts/config_ref.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/EnergyScope_LCA-ANNE_20_02_25/scripts/config_ref.yaml" afterDir="false" />
-    </list>
+    <list default="true" id="8b2b4e6b-59cf-4eeb-ace8-e6cfafcb4d01" name="Changes" comment="Scenarios corrected 04_05_25" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -130,7 +101,7 @@
       <workItem from="1740572841353" duration="3284000" />
       <workItem from="1740643232510" duration="20681000" />
       <workItem from="1740736916581" duration="6855000" />
-      <workItem from="1741077869172" duration="2124000" />
+      <workItem from="1741077869172" duration="7471000" />
     </task>
     <task id="LOCAL-00001" summary="Ready for Anne">
       <option name="closed" value="true" />
@@ -164,7 +135,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740742190630</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Scenarios corrected 04_05_25">
+      <option name="closed" value="true" />
+      <created>1741085469548</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1741085469548</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -198,7 +177,8 @@
     <MESSAGE value="Ready for Anne" />
     <MESSAGE value="Nicolas run added" />
     <MESSAGE value="HVC-updated run 28-02-2025" />
-    <option name="LAST_COMMIT_MESSAGE" value="HVC-updated run 28-02-2025" />
+    <MESSAGE value="Scenarios corrected 04_05_25" />
+    <option name="LAST_COMMIT_MESSAGE" value="Scenarios corrected 04_05_25" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/ADLIBIO$run_energyscope.coverage" NAME="run_energyscope Coverage Results" MODIFIED="1740572870918" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EnergyScope_LCA-ANNE_20_02_25/scripts" />
