@@ -1,33 +1,33 @@
 
-Presolve eliminates 679590 constraints and 436034 variables.
+Presolve eliminates 680754 constraints and 436334 variables.
 "option presolve 10;" used, but "option presolve 11;" might work better.
 Adjusted problem:
-259518 variables, all linear
-475073 constraints, all linear; 1593566 nonzeros
-	344240 equality constraints
-	130833 inequality constraints
+259218 variables, all linear
+473909 constraints, all linear; 1588643 nonzeros
+	343942 equality constraints
+	129967 inequality constraints
 1 linear objective; 1 nonzero.
 
 Setting $presolve_fixeps >= 5.74e-06 could change presolve results.
 
 presolve results:
-	variables omitted:	436034
-	constraints omitted:	679590
-	ranges relaxed:		147677
-	bounds improved:	427753
-	constraint_drop_tol breakpoints: 0, 0, 0.33168518414822756
+	variables omitted:	436334
+	constraints omitted:	680754
+	ranges relaxed:		147961
+	bounds improved:	428058
+	constraint_drop_tol breakpoints: 0, 0, 0.331685263550753
 	nba cycles:		9
-	bound row scans:	1659881
-	row-scan updates:	783316
+	bound row scans:	2110796
+	row-scan updates:	1018218
 Gurobi 11.0.3:   pre:dual = -1
   alg:method = 2
   bar:crossover = 0
   pre:passes = 3
   bar:convtol = 1e-06
   pre:solve = -1
-Gurobi 11.0.3: optimal solution; objective 43029.51035
+Gurobi 11.0.3: optimal solution; objective 43873.99992
 0 simplex iterations
-91 barrier iterations
+92 barrier iterations
  
 ------------ WARNINGS ------------
 WARNING:  "Tolerance violations"
@@ -39,16 +39,16 @@ solve_result = solved
 
 solve_result_num = 0
 
-_solve_elapsed_time = 25.875
+_solve_elapsed_time = 90.875
 
-TotalCost 43.029510350094164
-LCA_tot 127.6494444447374
-Crit_1_tot 386.1388127631124
-Crit_2_tot 277191.1740655079
-Crit_3_tot 20133.55633380246
-LCA_cstr 13.799171494189613
-LCA_op 99.72778036915625
-LCA_res 14.122492581391459
+TotalCost 43.87399991612335
+LCA_tot 128.8194448286416
+Crit_1_tot 387.7686907459757
+Crit_2_tot 280574.5225263243
+Crit_3_tot 20169.99704755305
+LCA_cstr 13.885862591781835
+LCA_op 100.75261798253212
+LCA_res 14.180964254327675
 --------------SAVING COSTS -----------
 --------------SAVING RESOURCES -----------
 --------------SAVING GWP -----------

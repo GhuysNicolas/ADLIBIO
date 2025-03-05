@@ -98,7 +98,7 @@
  param  re_share_primary  :=  0;  #  Minimum  RE  share  in  primary  consumption 
  param  gwp_limit  :=  1000000000;;  #  gwp_limit  [ktCO2-eq./year]:  maximum  GWP  emissions 
  param  cost_limit  :=  200000;;  #  cost_limit  [beuro/year]:  maximum  Cost 
- param  lca_limit  :=  300000;;  #  lca_limit  [impact/year]:  maximum  impact  on  the  environment 
+ param  lca_limit  :=  200000;;  #  lca_limit  [impact/year]:  maximum  impact  on  the  environment 
  param  crit_1_limit  :=  1000;;  #  crit_1_limit  [GWh/year]:  maximum  GWh  invested 
  param  crit_2_limit  :=  2000000;;  #  crit_2_limit  [GWh/year]:  maximum  GWh  invested 
  param  crit_3_limit  :=  8000000;;  #  crit_3_limit  [GWh/year]:  maximum  GWh  invested 
@@ -110,7 +110,7 @@
  param  cost_max  :=  200000;;  #  cost_max  [beuro/year]:  maximum  Cost 
  param  gwp_min  :=  0;;  #  gwp_min  [ktCO2-eq./year]:  maximum  GWP  emissions 
  param  cost_min  :=  1000;;  #  cost_min  [beuro/year]:  maximum  Cost 
- param  lca_max  :=  300000;;  #  lca_max  [impact/year]:  maximum  impact  on  the  environment 
+ param  lca_max  :=  200000;;  #  lca_max  [impact/year]:  maximum  impact  on  the  environment 
  param  crit_1_max  :=  1000;;  #  crit_1_max  [GWh/year]:  maximum  GWh  invested 
  param  crit_2_max  :=  2000000;;  #  crit_2_max  [GWh/year]:  maximum  GWh  invested 
  param  crit_3_max  :=  8000000;;  #  crit_3_max  [GWh/year]:  maximum  GWh  invested 
@@ -316,7 +316,7 @@ BIO_HYDROLYSIS	1811.76	123.526815	0.0	15.0	0.85	0.0	1.0	0.0	Infinity	0.896799796
 BIOMASS_TO_METHANOL	3311.7	98.8	0.0	20.0	1.0	0.0	1.0	0.0	Infinity	45.26471379	63366.70957	1655.800588	0.00040278	0.78601825	0.065016977	3825.156012	0.66705985
 BIOMETHANATION	4788.0	73.15	0.0	20.0	0.85	0.0	1.0	0.0	Infinity	13.065397	56885.77207	695.0800054	9.42e-05	0.097861577	0.006504329	2420.081994	0.844694983
 BOAT_FREIGHT_DIESEL	1122.22	15.54545455	0.0	40.0	0.11416	0.43	1.0	0.0	Infinity	0.278202489	297.3859523	15.27636381	0.000375342	0.000164487	6.49e-06	41.36422175	0.032213518
-BOAT_FREIGHT_METHANOL	72.24	3.819444444	0.0	40.0	0.11416	0.0	1.0	0.0	Infinity	0.278202489	297.3859523	15.27636381	0.00041745	0.000164487	6.49e-06	41.36422175	0.035818432
+BOAT_FREIGHT_METHANOL	72.24	3.819444444	0.0	40.0	0.11416	0.0	1.0	0.0	0.0	0.278202489	297.3859523	15.27636381	0.00041745	0.000164487	6.49e-06	41.36422175	0.035818432
 BOAT_FREIGHT_NG	72.24	3.819444444	0.0	40.0	0.11416	0.0	0.0	0.0	Infinity	0.278202489	297.3859523	15.27636381	2.9e-05	0.000164487	6.49e-06	41.36422175	0.037365943
 BUS_COACH_CNG_STOICH	73.13	3.819444444	0.0	15.0	0.2968	0.0	0.1	0.0	Infinity	3.042826067	3789.992271	253.7734972	9.38e-05	6.46e-05	1.79e-05	299.4110507	0.082116174
 BUS_COACH_DIESEL	585.04	30.55555556	0.0	15.0	0.2968	0.5	1.0	0.0	Infinity	3.013114367	3718.969011	252.0535928	3.8e-05	6.46e-05	1.79e-05	293.7404266	0.08096834
@@ -398,7 +398,7 @@ SYN_METHANOLATION	2647.88	75.14119601	0.0	20.0	0.95	0.0	1.0	0.0	Infinity	45.2647
 TRAIN_FREIGHT	104.42	2.088311688	0.0	40.0	0.34247	0.0	1.0	0.0	Infinity	1.315764938	1254.811542	62.2681142	2.82e-05	0.0	0.0	224.6604587	0.002276507
 TRAIN_PUB	1506.02	54.35274934	0.0	40.0	0.27507	0.43	1.0	0.0	Infinity	1.053163195	1017.681644	55.52829996	0.0	0.0	0.0	78.10969817	0.00011674
 TRAMWAY_TROLLEY	625.0	12.5	0.0	30.0	0.34247	0.05	1.0	0.0	Infinity	0.46472836	232.8580588	20.54968933	0.0	0.0	0.0	60.13522286	0.0
-TRUCK_DIESEL	350.97	18.55555556	0.0	15.0	0.09259	0.923	1.0	0.0	Infinity	1.813182183	2512.582639	96.12352047	0.000311439	1.07e-05	2.97e-06	192.2380298	0.156822762
+TRUCK_DIESEL	350.97	18.55555556	0.0	15.0	0.09259	0.923	1.0	46.0	Infinity	1.813182183	2512.582639	96.12352047	0.000311439	1.07e-05	2.97e-06	192.2380298	0.156822762
 TRUCK_ELEC	878.38	23.13333333	0.0	15.0	0.09259	0.0	0.0	0.0	Infinity	5.36294333	4870.985901	536.3734865	5.9e-06	1.07e-05	2.97e-06	539.8216231	0.000343003
 TRUCK_FUEL_CELL	430.17	12.06666667	0.0	15.0	0.09259	0.0	0.0	0.0	Infinity	7.349506466	3375.345796	189.8057646	4.54e-06	1.07e-05	2.97e-06	347.8494037	0.000343003
 TRUCK_METHANOL	350.97	18.55555556	0.0	15.0	0.09259	0.0	0.0	0.0	0.0	1.796758817	2543.5535	94.08260655	0.000357037	1.07e-05	2.97e-06	192.8431856	0.180221605
