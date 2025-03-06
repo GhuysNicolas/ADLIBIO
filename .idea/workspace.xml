@@ -6,40 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="8b2b4e6b-59cf-4eeb-ace8-e6cfafcb4d01" name="Changes" comment="Scenarios corrected 05_05_25">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EnergyScope_LCA-ANNE_20_02_25/Data/SA_FINAL_03-03-2025/2035_REDIFUEL/Technologies.csv" beforeDir="false" afterPath="$PROJECT_DIR$/EnergyScope_LCA-ANNE_20_02_25/Data/SA_FINAL_03-03-2025/2035_REDIFUEL/Technologies.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EnergyScope_LCA-ANNE_20_02_25/case_studies/SA_FINAL_03-03-2025/2035_REDIFUEL/ESTD_data.dat" beforeDir="false" afterPath="$PROJECT_DIR$/EnergyScope_LCA-ANNE_20_02_25/case_studies/SA_FINAL_03-03-2025/2035_REDIFUEL/ESTD_data.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EnergyScope_LCA-ANNE_20_02_25/case_studies/SA_FINAL_03-03-2025/2035_REDIFUEL/output/LCA_Construction_final.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/EnergyScope_LCA-ANNE_20_02_25/case_studies/SA_FINAL_03-03-2025/2035_REDIFUEL/output/LCA_Construction_final.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EnergyScope_LCA-ANNE_20_02_25/case_studies/SA_FINAL_03-03-2025/2035_REDIFUEL/output/LCA_Operation_final.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/EnergyScope_LCA-ANNE_20_02_25/case_studies/SA_FINAL_03-03-2025/2035_REDIFUEL/output/LCA_Operation_final.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EnergyScope_LCA-ANNE_20_02_25/case_studies/SA_FINAL_03-03-2025/2035_REDIFUEL/output/LCA_Resources_final.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/EnergyScope_LCA-ANNE_20_02_25/case_studies/SA_FINAL_03-03-2025/2035_REDIFUEL/output/LCA_Resources_final.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EnergyScope_LCA-ANNE_20_02_25/case_studies/SA_FINAL_03-03-2025/2035_REDIFUEL/output/LCA_final.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/EnergyScope_LCA-ANNE_20_02_25/case_studies/SA_FINAL_03-03-2025/2035_REDIFUEL/output/LCA_final.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EnergyScope_LCA-ANNE_20_02_25/case_studies/SA_FINAL_03-03-2025/2035_REDIFUEL/output/PB_final.csv" beforeDir="false" afterPath="$PROJECT_DIR$/EnergyScope_LCA-ANNE_20_02_25/case_studies/SA_FINAL_03-03-2025/2035_REDIFUEL/output/PB_final.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EnergyScope_LCA-ANNE_20_02_25/case_studies/SA_FINAL_03-03-2025/2035_REDIFUEL/output/PB_final_figure_1.svg" beforeDir="false" afterPath="$PROJECT_DIR$/EnergyScope_LCA-ANNE_20_02_25/case_studies/SA_FINAL_03-03-2025/2035_REDIFUEL/output/PB_final_figure_1.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EnergyScope_LCA-ANNE_20_02_25/case_studies/SA_FINAL_03-03-2025/2035_REDIFUEL/output/assets.txt" beforeDir="false" afterPath="$PROJECT_DIR$/EnergyScope_LCA-ANNE_20_02_25/case_studies/SA_FINAL_03-03-2025/2035_REDIFUEL/output/assets.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EnergyScope_LCA-ANNE_20_02_25/case_studies/SA_FINAL_03-03-2025/2035_REDIFUEL/output/cost_breakdown.txt" beforeDir="false" afterPath="$PROJECT_DIR$/EnergyScope_LCA-ANNE_20_02_25/case_studies/SA_FINAL_03-03-2025/2035_REDIFUEL/output/cost_breakdown.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EnergyScope_LCA-ANNE_20_02_25/case_studies/SA_FINAL_03-03-2025/2035_REDIFUEL/output/crit_1_breakdown.txt" beforeDir="false" afterPath="$PROJECT_DIR$/EnergyScope_LCA-ANNE_20_02_25/case_studies/SA_FINAL_03-03-2025/2035_REDIFUEL/output/crit_1_breakdown.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EnergyScope_LCA-ANNE_20_02_25/case_studies/SA_FINAL_03-03-2025/2035_REDIFUEL/output/crit_2_breakdown.txt" beforeDir="false" afterPath="$PROJECT_DIR$/EnergyScope_LCA-ANNE_20_02_25/case_studies/SA_FINAL_03-03-2025/2035_REDIFUEL/output/crit_2_breakdown.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EnergyScope_LCA-ANNE_20_02_25/case_studies/SA_FINAL_03-03-2025/2035_REDIFUEL/output/crit_3_breakdown.txt" beforeDir="false" afterPath="$PROJECT_DIR$/EnergyScope_LCA-ANNE_20_02_25/case_studies/SA_FINAL_03-03-2025/2035_REDIFUEL/output/crit_3_breakdown.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EnergyScope_LCA-ANNE_20_02_25/case_studies/SA_FINAL_03-03-2025/2035_REDIFUEL/output/gwp_breakdown.txt" beforeDir="false" afterPath="$PROJECT_DIR$/EnergyScope_LCA-ANNE_20_02_25/case_studies/SA_FINAL_03-03-2025/2035_REDIFUEL/output/gwp_breakdown.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EnergyScope_LCA-ANNE_20_02_25/case_studies/SA_FINAL_03-03-2025/2035_REDIFUEL/output/lca_breakdown.txt" beforeDir="false" afterPath="$PROJECT_DIR$/EnergyScope_LCA-ANNE_20_02_25/case_studies/SA_FINAL_03-03-2025/2035_REDIFUEL/output/lca_breakdown.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EnergyScope_LCA-ANNE_20_02_25/case_studies/SA_FINAL_03-03-2025/2035_REDIFUEL/output/lca_cstr_breakdown.txt" beforeDir="false" afterPath="$PROJECT_DIR$/EnergyScope_LCA-ANNE_20_02_25/case_studies/SA_FINAL_03-03-2025/2035_REDIFUEL/output/lca_cstr_breakdown.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EnergyScope_LCA-ANNE_20_02_25/case_studies/SA_FINAL_03-03-2025/2035_REDIFUEL/output/lca_cstr_breakdown_sorted.txt" beforeDir="false" afterPath="$PROJECT_DIR$/EnergyScope_LCA-ANNE_20_02_25/case_studies/SA_FINAL_03-03-2025/2035_REDIFUEL/output/lca_cstr_breakdown_sorted.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EnergyScope_LCA-ANNE_20_02_25/case_studies/SA_FINAL_03-03-2025/2035_REDIFUEL/output/lca_cstr_breakdown_sorted_mult.txt" beforeDir="false" afterPath="$PROJECT_DIR$/EnergyScope_LCA-ANNE_20_02_25/case_studies/SA_FINAL_03-03-2025/2035_REDIFUEL/output/lca_cstr_breakdown_sorted_mult.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EnergyScope_LCA-ANNE_20_02_25/case_studies/SA_FINAL_03-03-2025/2035_REDIFUEL/output/lca_op_breakdown.txt" beforeDir="false" afterPath="$PROJECT_DIR$/EnergyScope_LCA-ANNE_20_02_25/case_studies/SA_FINAL_03-03-2025/2035_REDIFUEL/output/lca_op_breakdown.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EnergyScope_LCA-ANNE_20_02_25/case_studies/SA_FINAL_03-03-2025/2035_REDIFUEL/output/lca_op_breakdown_sorted.txt" beforeDir="false" afterPath="$PROJECT_DIR$/EnergyScope_LCA-ANNE_20_02_25/case_studies/SA_FINAL_03-03-2025/2035_REDIFUEL/output/lca_op_breakdown_sorted.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EnergyScope_LCA-ANNE_20_02_25/case_studies/SA_FINAL_03-03-2025/2035_REDIFUEL/output/lca_op_breakdown_sorted_mult.txt" beforeDir="false" afterPath="$PROJECT_DIR$/EnergyScope_LCA-ANNE_20_02_25/case_studies/SA_FINAL_03-03-2025/2035_REDIFUEL/output/lca_op_breakdown_sorted_mult.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EnergyScope_LCA-ANNE_20_02_25/case_studies/SA_FINAL_03-03-2025/2035_REDIFUEL/output/lca_res_breakdown.txt" beforeDir="false" afterPath="$PROJECT_DIR$/EnergyScope_LCA-ANNE_20_02_25/case_studies/SA_FINAL_03-03-2025/2035_REDIFUEL/output/lca_res_breakdown.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EnergyScope_LCA-ANNE_20_02_25/case_studies/SA_FINAL_03-03-2025/2035_REDIFUEL/output/lca_res_breakdown_sorted.txt" beforeDir="false" afterPath="$PROJECT_DIR$/EnergyScope_LCA-ANNE_20_02_25/case_studies/SA_FINAL_03-03-2025/2035_REDIFUEL/output/lca_res_breakdown_sorted.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EnergyScope_LCA-ANNE_20_02_25/case_studies/SA_FINAL_03-03-2025/2035_REDIFUEL/output/lca_res_breakdown_sorted_mult.txt" beforeDir="false" afterPath="$PROJECT_DIR$/EnergyScope_LCA-ANNE_20_02_25/case_studies/SA_FINAL_03-03-2025/2035_REDIFUEL/output/lca_res_breakdown_sorted_mult.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EnergyScope_LCA-ANNE_20_02_25/case_studies/SA_FINAL_03-03-2025/2035_REDIFUEL/output/log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/EnergyScope_LCA-ANNE_20_02_25/case_studies/SA_FINAL_03-03-2025/2035_REDIFUEL/output/log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EnergyScope_LCA-ANNE_20_02_25/case_studies/SA_FINAL_03-03-2025/2035_REDIFUEL/output/losses.txt" beforeDir="false" afterPath="$PROJECT_DIR$/EnergyScope_LCA-ANNE_20_02_25/case_studies/SA_FINAL_03-03-2025/2035_REDIFUEL/output/losses.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EnergyScope_LCA-ANNE_20_02_25/case_studies/SA_FINAL_03-03-2025/2035_REDIFUEL/output/resources_breakdown.txt" beforeDir="false" afterPath="$PROJECT_DIR$/EnergyScope_LCA-ANNE_20_02_25/case_studies/SA_FINAL_03-03-2025/2035_REDIFUEL/output/resources_breakdown.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EnergyScope_LCA-ANNE_20_02_25/case_studies/SA_FINAL_03-03-2025/2035_REDIFUEL/output/sankey/input2sankey.csv" beforeDir="false" afterPath="$PROJECT_DIR$/EnergyScope_LCA-ANNE_20_02_25/case_studies/SA_FINAL_03-03-2025/2035_REDIFUEL/output/sankey/input2sankey.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EnergyScope_LCA-ANNE_20_02_25/case_studies/SA_FINAL_03-03-2025/2035_REDIFUEL/output/sankey/python_generated_sankey.html" beforeDir="false" afterPath="$PROJECT_DIR$/EnergyScope_LCA-ANNE_20_02_25/case_studies/SA_FINAL_03-03-2025/2035_REDIFUEL/output/sankey/python_generated_sankey.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EnergyScope_LCA-ANNE_20_02_25/case_studies/SA_FINAL_03-03-2025/2035_REDIFUEL/output/sto_year.txt" beforeDir="false" afterPath="$PROJECT_DIR$/EnergyScope_LCA-ANNE_20_02_25/case_studies/SA_FINAL_03-03-2025/2035_REDIFUEL/output/sto_year.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EnergyScope_LCA-ANNE_20_02_25/case_studies/SA_FINAL_03-03-2025/2035_REDIFUEL/output/year_balance.txt" beforeDir="false" afterPath="$PROJECT_DIR$/EnergyScope_LCA-ANNE_20_02_25/case_studies/SA_FINAL_03-03-2025/2035_REDIFUEL/output/year_balance.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EnergyScope_LCA-ANNE_20_02_25/energyscope/preprocessing/td_selection/log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/EnergyScope_LCA-ANNE_20_02_25/energyscope/preprocessing/td_selection/log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EnergyScope_LCA-ANNE_20_02_25/scripts/2025-03-05_09-55-46.696689.energyscope.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/EnergyScope_LCA-ANNE_20_02_25/scripts/config_ref.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/EnergyScope_LCA-ANNE_20_02_25/scripts/config_ref.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EnergyScope_LCA-ANNE_20_02_25/Data/SA_FINAL_03-03-2025/2030/Demand.csv" beforeDir="false" afterPath="$PROJECT_DIR$/EnergyScope_LCA-ANNE_20_02_25/Data/SA_FINAL_03-03-2025/2030/Demand.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EnergyScope_LCA-ANNE_20_02_25/Data/SA_FINAL_03-03-2025/2035/Demand.csv" beforeDir="false" afterPath="$PROJECT_DIR$/EnergyScope_LCA-ANNE_20_02_25/Data/SA_FINAL_03-03-2025/2035/Demand.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EnergyScope_LCA-ANNE_20_02_25/Data/SA_FINAL_03-03-2025/2035_REDIFUEL/Resources.csv" beforeDir="false" afterPath="$PROJECT_DIR$/EnergyScope_LCA-ANNE_20_02_25/Data/SA_FINAL_03-03-2025/2035_REDIFUEL/Resources.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,23 +35,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/ghuysn/GIT_Projects/ADLIBIO/EnergyScope_LCA-ANNE_20_02_25/Data/SA_FINAL_26-11-24/2045/misc.json",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
-    "two.files.diff.last.used.file": "C:/Users/ghuysn/GIT_Projects/ADLIBIO/EnergyScope_LCA-ANNE_20_02_25/Data/SA_FINAL_26-11-24/2045/misc.json",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ghuysn/GIT_Projects/ADLIBIO/EnergyScope_LCA-ANNE_20_02_25/Data/SA_FINAL_26-11-24/2045/misc.json&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;two.files.diff.last.used.file&quot;: &quot;C:/Users/ghuysn/GIT_Projects/ADLIBIO/EnergyScope_LCA-ANNE_20_02_25/Data/SA_FINAL_26-11-24/2045/misc.json&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\ghuysn\GIT_Projects\ADLIBIO\EnergyScope_LCA-ANNE_20_02_25\Data\SA_FINAL_19-02-2025\2035_H2_plus2" />
@@ -138,7 +107,8 @@
       <workItem from="1740643232510" duration="20681000" />
       <workItem from="1740736916581" duration="6855000" />
       <workItem from="1741077869172" duration="8665000" />
-      <workItem from="1741164158165" duration="6497000" />
+      <workItem from="1741164158165" duration="7725000" />
+      <workItem from="1741258835978" duration="477000" />
     </task>
     <task id="LOCAL-00001" summary="Ready for Anne">
       <option name="closed" value="true" />
@@ -220,7 +190,15 @@
       <option name="project" value="LOCAL" />
       <updated>1741178658117</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Scenarios corrected 05_05_25">
+      <option name="closed" value="true" />
+      <created>1741182830476</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1741182830476</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

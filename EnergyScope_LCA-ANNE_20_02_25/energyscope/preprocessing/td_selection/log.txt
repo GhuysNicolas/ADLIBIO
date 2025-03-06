@@ -17,15 +17,15 @@
 ## 108            0            0            0  DAYS
 ## 109            0            0            0  Nbr_TD
 ## 110            0            0            0  Ndata
-## 111       0.8125       0.8125     13175008  Distance
-## 112            0       0.8125            0  Selected_TD
-## 114            0       0.8125      4202528  Cluster_matrix
-## 116     0.015625     0.828125      3233312  allocate_1TD_per_day
-## 118     0.015625      0.84375     14759016  other_TD_null
-## 120            0      0.84375        38400  limit_number_of_TD
-## 122            0      0.84375      3187200  Euclidean_distance
-#genmod		0.84375		38595464	44837792
-#merge		0		2097160		46934952
+## 111     0.796875     0.796875     13175008  Distance
+## 112            0     0.796875            0  Selected_TD
+## 114            0     0.796875      4202528  Cluster_matrix
+## 116     0.015625       0.8125      3233312  allocate_1TD_per_day
+## 118     0.015625     0.828125     14759016  other_TD_null
+## 120            0     0.828125        38400  limit_number_of_TD
+## 122            0     0.828125      3187200  Euclidean_distance
+#genmod		0.828125	38595464	44837792
+#merge		0.015625	2097160		46934952
 #collect	0.015625	37953104	84888056
 
 "option presolve 10;" used, but "option presolve 2;" would suffice.
@@ -43,20 +43,20 @@ presolve results:
 	nba cycles:		1
 	bound row scans:	133591
 	row-scan updates:	0
-#presolve	0.078125	30571568	115459624
+#presolve	0.0625		30571568	115459624
 #output		0.109375	4194312		119653936
-#Total		1.0625
+#Total		1.04688
 CPLEX 22.1.1:   tech:mipdisplay = 5
   tech:mipinterval = 1000
   mip:gap = 1e-06
-CPLEX 22.1.1: optimal solution; objective 7.444441387e-06
+CPLEX 22.1.1: optimal solution; objective 7.486800663e-06
 14 simplex iterations
-#execute	0		2097160		121751096
+#execute	0.015625	2097160		121751096
 ### td_main.run:27(1103)   option ...
 ### td_main.run:28(1131)   option ...
 solve_result = solved
 
 solve_result_num = 0
 
-_solve_elapsed_time = 4.532
+_solve_elapsed_time = 5.406
 
